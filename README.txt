@@ -37,6 +37,8 @@ end up not showing subtitles.
 Changing from certain viewing modes (ie: theater to windowed) sometimes might not update the text position right
 away. If this happens, just resize the browser window for a tiny bit and the text should return to its place.
 
+Video might need to be refreshed upon multiple revists for the subtitles to show.
+
 //////////////////
 
 Example videos :
