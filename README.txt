@@ -36,3 +36,11 @@ end up not showing subtitles.
 
 Changing from certain viewing modes (ie: theater to windowed) sometimes might not update the text position right
 away. If this happens, just resize the browser window for a tiny bit and the text should return to its place.
+
+//////////////////
+
+Example videos :
+
+https://www.youtube.com/watch?v=CqfIEP_JKXE
+
+https://www.youtube.com/watch?v=TlvJmpiCb3s
