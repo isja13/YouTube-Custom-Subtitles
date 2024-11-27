@@ -17,7 +17,49 @@
     // Define your subtitle paths here
     const subtitlePaths = {
         'TlvJmpiCb3s': 'Galfy4.srt', // First video
-        'CqfIEP_JKXE': 'iphone.srt' // Second video
+        'CqfIEP_JKXE': 'iphone.srt', // Second video
+        'uGkKTsOgQqg': 'iphone.srt',
+        'hBCPxOaxtBA': 'HybridFooly.srt',
+        'BNodvF7YcVg': 'BlueberryGum.srt',
+        'aECsHJdiFkA': 'BlueberryGum.srt',
+        '9Vq80tldogk': 'chouhametsutekishikou.srt',
+        '5cUq9qgez5w': 'sutekinarokugatsu.srt',
+        'Ug5PEHr-SxQ': 'curse.srt',
+        'QfaB8-2DGU0': 'shirley.srt',
+        'N_Eyi-zWQZo': 'Log Out.srt',
+        'NHYOmWTrGcc': 'Dennoukyou.srt',
+        'b3JKHlAlxL8': 'chougojigen.srt',
+        '-HH2VwRmVqc': 'dreamland.srt',
+        '4G9v1aveNCk': 'ILOVEME.srt',
+        'DWXJd1_ZQkk': 'Gemstone.srt',
+        'JFUUfKSDZ24': 'symmetry.srt',
+        'X7wq0050R_k': 'givemeahand.srt',
+        'MafqnYSDDc0': 'unwise.srt',
+        '262RpuHNVnA': 'akumachan.srt',
+        'vbhkkY3PL0g': 'strawberrymoon.srt',
+        'iyiAVkwBxxY': 'muchuuhokou.srt',
+        'Q5peMzFP-9E': 'Ganbariyasan.srt',
+        '7HgJIAUtICU': 'Odoriko.srt',
+        'z35-GRMrLFo': 'FR.srt',
+        'F7JbGkSMKCY': 'MidnightTalking.srt',
+        'VxXiWiLCZ-w': 'EsperShouGakuSei.srt',
+        'YdZ3kgjNSrI': 'SaiShuuen.srt',
+        '8ZXJCwaUcOs': 're install.srt',
+        '8O4TDnFha0g': 'SurvivalDance.srt',
+        'b8VVyh5KtUs': 'Kakerumono.srt',
+        'eP2GYA-59Q8': 'kg.srt',
+        'I-rabEf7kZ8': 'Innocence.srt',
+        'IiKCM5vzwoc': 'Maboroshi.srt',
+        'QZyETS5s4UY': 'Forgiveness.srt',
+        'aNCjYC3v_C0': 'sadnightboi.srt',
+        'AmksjhounpI': 'chocolatedripv2.srt',
+        'bFUdubnjm4k': 'kiseki.srt',
+        'Dtw_KGG-qa4': 'Butigire Nyanko.srt',
+        'oHFILQX9-dk': 'monmon.srt',
+        'bg3YRjTKT7o': 'GREEN.srt',
+        'khplMpm4ctc': 'Unravel.srt',
+        'UvwQl55OZ88': 'NekoJesus.srt',
+
     };
 
     // Wait for the video element to be available
