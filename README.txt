@@ -1,4 +1,4 @@
-Currently only included with 2 subtitle files. 
+Currently included with ~50 subtitle files. 
 
 You are currently responsible for sourcing your subtitle files. You can either find them on an online database like captionfy.io 
 or make them yourself through whatever means are convenient. 
@@ -23,6 +23,8 @@ Finally, where it says "cost subtitlePaths = {" Add the tag from the video url (
 '://www.youtube.com/watch' and the name of the corresponding subtitle folder in the format of the existing videos.
 
 Now every time you visit that video, it will display your custom subtitles!
+
+If after all this you are still not getting the subtitles, try opening the python server file in a text editor and check that the internal file path matches where you have everything saved.
 
 Best used with 10Ten/Yomitan and Anki for flashcard mining with screenshots//
 
